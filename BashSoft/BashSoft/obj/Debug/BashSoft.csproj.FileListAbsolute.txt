@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Advanced\BashSoft\obj\Debug\BashSoft.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Advanced\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Advanced\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\user\Source\Repos\Advanced\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\user\Source\Repos\Advanced\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\user\Source\Repos\Advanced\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\user\Source\Repos\Advanced\BashSoft\obj\Debug\BashSoft.pdb

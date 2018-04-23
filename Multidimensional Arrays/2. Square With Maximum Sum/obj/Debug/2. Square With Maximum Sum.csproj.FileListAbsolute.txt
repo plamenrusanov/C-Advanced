@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\_2.Square_With_Maximum_Sum.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\2. Square With Maximum Sum.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\2. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\_2.Square_With_Maximum_Sum.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\_2.Square_With_Maximum_Sum.pdb

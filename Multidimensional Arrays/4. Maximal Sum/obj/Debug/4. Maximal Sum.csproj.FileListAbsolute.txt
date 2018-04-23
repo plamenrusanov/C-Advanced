@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\bin\Debug\_4.Maximal_Sum.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\obj\Debug\4. Maximal Sum.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\obj\Debug\4. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\4. Maximal Sum\obj\Debug\_4.Maximal_Sum.pdb

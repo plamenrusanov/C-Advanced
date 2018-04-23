@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.pdb
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\02. Basic Stack Operations.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\02. Basic Stack Operations.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.pdb

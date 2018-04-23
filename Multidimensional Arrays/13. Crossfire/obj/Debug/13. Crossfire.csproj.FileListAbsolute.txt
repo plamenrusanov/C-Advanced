@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\bin\Debug\_13.Crossfire.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\bin\Debug\_13.Crossfire.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\bin\Debug\_13.Crossfire.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\obj\Debug\13. Crossfire.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\obj\Debug\13. Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\obj\Debug\_13.Crossfire.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\13. Crossfire\obj\Debug\_13.Crossfire.pdb

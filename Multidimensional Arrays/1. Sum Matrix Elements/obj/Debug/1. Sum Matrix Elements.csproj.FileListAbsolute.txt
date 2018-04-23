@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\bin\Debug\_1.Sum_Matrix_Elements.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\1. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\1. Sum Matrix Elements\obj\Debug\_1.Sum_Matrix_Elements.pdb

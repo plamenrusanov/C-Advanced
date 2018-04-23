@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.deps.json
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.runtimeconfig.json
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.dll
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\bin\Debug\netcoreapp2.0\02. Knight Game.pdb
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.AssemblyInfo.cs
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.dll
+C:\Users\user\Source\Repos\C Advanced Exam - 25 June 2017\02. Knight Game\obj\Debug\netcoreapp2.0\02. Knight Game.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.0\04. Hit List.deps.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.0\04. Hit List.runtimeconfig.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.0\04. Hit List.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.0\04. Hit List.dll
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\bin\Debug\netcoreapp2.0\04. Hit List.pdb
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.0\04. Hit List.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.0\04. Hit List.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.0\04. Hit List.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.0\04. Hit List.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.0\04. Hit List.dll
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\04. Hit List\obj\Debug\netcoreapp2.0\04. Hit List.pdb

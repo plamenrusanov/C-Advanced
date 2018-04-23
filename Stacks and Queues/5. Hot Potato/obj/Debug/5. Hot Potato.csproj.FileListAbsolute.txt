@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\bin\Debug\_5.Hot_Potato.exe
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\bin\Debug\_5.Hot_Potato.pdb
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\obj\Debug\5. Hot Potato.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\obj\Debug\5. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\obj\Debug\_5.Hot_Potato.exe
+C:\Users\user\Source\Repos\Stacks and Queues\5. Hot Potato\obj\Debug\_5.Hot_Potato.pdb

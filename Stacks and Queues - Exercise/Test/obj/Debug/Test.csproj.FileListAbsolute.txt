@@ -1,0 +1,6 @@
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Test\bin\Debug\Test.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Test\bin\Debug\Test.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Test\bin\Debug\Test.pdb
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Test\obj\Debug\Test.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Test\obj\Debug\Test.pdb

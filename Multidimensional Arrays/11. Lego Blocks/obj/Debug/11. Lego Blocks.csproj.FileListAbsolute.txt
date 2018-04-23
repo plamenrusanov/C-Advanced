@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\bin\Debug\_11.Lego_Blocks.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\bin\Debug\_11.Lego_Blocks.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\bin\Debug\_11.Lego_Blocks.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\obj\Debug\11. Lego Blocks.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\obj\Debug\11. Lego Blocks.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\obj\Debug\_11.Lego_Blocks.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Lego Blocks\obj\Debug\_11.Lego_Blocks.pdb

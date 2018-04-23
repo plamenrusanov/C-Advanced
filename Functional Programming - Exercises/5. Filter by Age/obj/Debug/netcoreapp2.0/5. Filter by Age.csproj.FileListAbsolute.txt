@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\bin\Debug\netcoreapp2.0\5. Filter by Age.deps.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\bin\Debug\netcoreapp2.0\5. Filter by Age.runtimeconfig.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\bin\Debug\netcoreapp2.0\5. Filter by Age.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\bin\Debug\netcoreapp2.0\5. Filter by Age.dll
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\bin\Debug\netcoreapp2.0\5. Filter by Age.pdb
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\obj\Debug\netcoreapp2.0\5. Filter by Age.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\obj\Debug\netcoreapp2.0\5. Filter by Age.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\obj\Debug\netcoreapp2.0\5. Filter by Age.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\obj\Debug\netcoreapp2.0\5. Filter by Age.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\obj\Debug\netcoreapp2.0\5. Filter by Age.dll
+C:\Users\user\Source\Repos\Functional Programming - Exercises\5. Filter by Age\obj\Debug\netcoreapp2.0\5. Filter by Age.pdb

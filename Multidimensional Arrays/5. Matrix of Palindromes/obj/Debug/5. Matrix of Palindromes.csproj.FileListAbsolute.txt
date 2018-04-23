@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\bin\Debug\_5.Matrix_of_Palindromes.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\bin\Debug\_5.Matrix_of_Palindromes.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\bin\Debug\_5.Matrix_of_Palindromes.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\obj\Debug\5. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\obj\Debug\5. Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\obj\Debug\_5.Matrix_of_Palindromes.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\5. Matrix of Palindromes\obj\Debug\_5.Matrix_of_Palindromes.pdb

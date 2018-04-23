@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\bin\Debug\_9.Rubiks_Matrix.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\bin\Debug\_9.Rubiks_Matrix.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\bin\Debug\_9.Rubiks_Matrix.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\obj\Debug\9. Rubiks Matrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\obj\Debug\_9.Rubiks_Matrix.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\obj\Debug\_9.Rubiks_Matrix.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\9. Rubiks Matrix\obj\Debug\9. Rubiks Matrix.csprojResolveAssemblyReference.cache

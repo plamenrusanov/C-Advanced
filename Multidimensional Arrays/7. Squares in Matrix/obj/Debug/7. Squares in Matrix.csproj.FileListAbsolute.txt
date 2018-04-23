@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\bin\Debug\_7.Squares_in_Matrix.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\bin\Debug\_7.Squares_in_Matrix.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\bin\Debug\_7.Squares_in_Matrix.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\obj\Debug\7. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\obj\Debug\_7.Squares_in_Matrix.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\obj\Debug\_7.Squares_in_Matrix.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\7. Squares in Matrix\obj\Debug\7. Squares in Matrix.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\bin\Debug\netcoreapp2.0\16. String Matrix Rotation.deps.json
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\bin\Debug\netcoreapp2.0\16. String Matrix Rotation.runtimeconfig.json
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\bin\Debug\netcoreapp2.0\16. String Matrix Rotation.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\bin\Debug\netcoreapp2.0\16. String Matrix Rotation.dll
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\bin\Debug\netcoreapp2.0\16. String Matrix Rotation.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\obj\Debug\netcoreapp2.0\16. String Matrix Rotation.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\obj\Debug\netcoreapp2.0\16. String Matrix Rotation.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\obj\Debug\netcoreapp2.0\16. String Matrix Rotation.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\obj\Debug\netcoreapp2.0\16. String Matrix Rotation.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\obj\Debug\netcoreapp2.0\16. String Matrix Rotation.dll
+C:\Users\user\Source\Repos\Multidimensional Arrays\16. String Matrix Rotation\obj\Debug\netcoreapp2.0\16. String Matrix Rotation.pdb

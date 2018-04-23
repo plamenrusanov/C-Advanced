@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\bin\Debug\_10.Target_Practice.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\bin\Debug\_10.Target_Practice.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\bin\Debug\_10.Target_Practice.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\obj\Debug\10. Target Practice.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\obj\Debug\10. Target Practice.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\obj\Debug\_10.Target_Practice.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\10. Target Practice\obj\Debug\_10.Target_Practice.pdb

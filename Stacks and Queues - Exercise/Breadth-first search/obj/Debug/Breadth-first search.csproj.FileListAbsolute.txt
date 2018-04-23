@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\bin\Debug\Breadth-first search.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\bin\Debug\Breadth-first search.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\bin\Debug\Breadth-first search.pdb
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\obj\Debug\Breadth-first search.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\obj\Debug\Breadth-first search.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\obj\Debug\Breadth-first search.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\Breadth-first search\obj\Debug\Breadth-first search.pdb

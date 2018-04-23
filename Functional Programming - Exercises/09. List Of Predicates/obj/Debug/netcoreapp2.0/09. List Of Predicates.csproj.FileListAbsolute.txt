@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.deps.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.runtimeconfig.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.dll
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.0\09. List Of Predicates.pdb
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.dll
+C:\Users\user\Source\Repos\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.0\09. List Of Predicates.pdb

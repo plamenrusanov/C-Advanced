@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.deps.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.runtimeconfig.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.dll
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\bin\Debug\netcoreapp2.0\01. Key Revolver.pdb
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.dll
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\01. Key Revolver\obj\Debug\netcoreapp2.0\01. Key Revolver.pdb

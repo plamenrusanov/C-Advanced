@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.0\03. Crypto Blockchain.deps.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.0\03. Crypto Blockchain.runtimeconfig.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.0\03. Crypto Blockchain.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.0\03. Crypto Blockchain.dll
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\bin\Debug\netcoreapp2.0\03. Crypto Blockchain.pdb
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.0\03. Crypto Blockchain.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.0\03. Crypto Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.0\03. Crypto Blockchain.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.0\03. Crypto Blockchain.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.0\03. Crypto Blockchain.dll
+C:\Users\user\Source\Repos\Advanced Exam - 11 February 2018\03. Crypto Blockchain\obj\Debug\netcoreapp2.0\03. Crypto Blockchain.pdb

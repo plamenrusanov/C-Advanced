@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\bin\Debug\_1.Parking_Lot.exe.config
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\bin\Debug\_1.Parking_Lot.exe
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\bin\Debug\_1.Parking_Lot.pdb
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\obj\Debug\1. Parking Lot.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\obj\Debug\1. Parking Lot.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\obj\Debug\_1.Parking_Lot.exe
+C:\Users\user\Source\Repos\Sets And Dictionaries\1. Parking Lot\obj\Debug\_1.Parking_Lot.pdb

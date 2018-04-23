@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.deps.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.runtimeconfig.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.dll
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\bin\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.pdb
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.dll
+C:\Users\user\Source\Repos\Functional Programming - Exercises\11. The Party Reservation Filter Module\obj\Debug\netcoreapp2.0\11. The Party Reservation Filter Module.pdb

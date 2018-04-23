@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\_07.Balanced_Parenthesis.pdb
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\07. Balanced Parenthesis.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\07. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\_07.Balanced_Parenthesis.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\_07.Balanced_Parenthesis.pdb

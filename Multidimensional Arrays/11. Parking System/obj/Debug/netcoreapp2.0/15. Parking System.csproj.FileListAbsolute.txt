@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\bin\Debug\netcoreapp2.0\15. Parking System.deps.json
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\bin\Debug\netcoreapp2.0\15. Parking System.runtimeconfig.json
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\bin\Debug\netcoreapp2.0\15. Parking System.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\bin\Debug\netcoreapp2.0\15. Parking System.dll
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\bin\Debug\netcoreapp2.0\15. Parking System.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\obj\Debug\netcoreapp2.0\15. Parking System.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\obj\Debug\netcoreapp2.0\15. Parking System.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\obj\Debug\netcoreapp2.0\15. Parking System.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\obj\Debug\netcoreapp2.0\15. Parking System.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\obj\Debug\netcoreapp2.0\15. Parking System.dll
+C:\Users\user\Source\Repos\Multidimensional Arrays\11. Parking System\obj\Debug\netcoreapp2.0\15. Parking System.pdb

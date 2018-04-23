@@ -1,0 +1,6 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\6. Diagonal Difference\bin\Debug\_6.Diagonal_Difference.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\6. Diagonal Difference\bin\Debug\_6.Diagonal_Difference.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\6. Diagonal Difference\bin\Debug\_6.Diagonal_Difference.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\6. Diagonal Difference\obj\Debug\6. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\6. Diagonal Difference\obj\Debug\_6.Diagonal_Difference.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\6. Diagonal Difference\obj\Debug\_6.Diagonal_Difference.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\bin\Debug\_3.Group_Numbers.exe.config
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\bin\Debug\_3.Group_Numbers.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\bin\Debug\_3.Group_Numbers.pdb
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\obj\Debug\3. Group Numbers.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\obj\Debug\3. Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\obj\Debug\_3.Group_Numbers.exe
+C:\Users\user\Source\Repos\Multidimensional Arrays\3. Group Numbers\obj\Debug\_3.Group_Numbers.pdb

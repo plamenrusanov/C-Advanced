@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\bin\Debug\6.MathPotato.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\bin\Debug\6.MathPotato.exe
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\bin\Debug\6.MathPotato.pdb
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\obj\Debug\6.MathPotato.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\obj\Debug\6.MathPotato.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\obj\Debug\6.MathPotato.exe
+C:\Users\user\Source\Repos\Stacks and Queues\6.MathPotato\obj\Debug\6.MathPotato.pdb

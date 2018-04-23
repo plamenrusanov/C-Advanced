@@ -1,0 +1,7 @@
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe.config
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\bin\Debug\_05.Sequence_With_Queue.pdb
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\05. Sequence With Queue.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\05. Sequence With Queue.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.exe
+C:\Users\user\Source\Repos\Stacks and Queues - Exercise\05. Sequence With Queue\obj\Debug\_05.Sequence_With_Queue.pdb
