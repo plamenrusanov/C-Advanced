@@ -1,0 +1,11 @@
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\bin\Debug\netcoreapp2.0\Crossroads.deps.json
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\bin\Debug\netcoreapp2.0\Crossroads.runtimeconfig.json
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\bin\Debug\netcoreapp2.0\Crossroads.runtimeconfig.dev.json
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\bin\Debug\netcoreapp2.0\Crossroads.dll
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\bin\Debug\netcoreapp2.0\Crossroads.pdb
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\obj\Debug\netcoreapp2.0\Crossroads.csprojResolveAssemblyReference.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\obj\Debug\netcoreapp2.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\obj\Debug\netcoreapp2.0\Crossroads.AssemblyInfoInputs.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\obj\Debug\netcoreapp2.0\Crossroads.AssemblyInfo.cs
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\obj\Debug\netcoreapp2.0\Crossroads.dll
+C:\C# Advanced\AdvancedExamRetake24April2018\Crossroads\obj\Debug\netcoreapp2.0\Crossroads.pdb

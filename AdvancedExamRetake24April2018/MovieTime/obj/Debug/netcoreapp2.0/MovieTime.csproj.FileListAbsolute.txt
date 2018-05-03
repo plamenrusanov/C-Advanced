@@ -1,0 +1,11 @@
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.deps.json
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.runtimeconfig.json
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.runtimeconfig.dev.json
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.dll
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\bin\Debug\netcoreapp2.0\MovieTime.pdb
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.csprojResolveAssemblyReference.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.csproj.CoreCompileInputs.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.AssemblyInfoInputs.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.AssemblyInfo.cs
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.dll
+C:\C# Advanced\AdvancedExamRetake24April2018\MovieTime\obj\Debug\netcoreapp2.0\MovieTime.pdb

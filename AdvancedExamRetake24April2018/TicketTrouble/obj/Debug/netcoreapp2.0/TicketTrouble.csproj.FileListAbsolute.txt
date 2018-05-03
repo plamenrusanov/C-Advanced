@@ -1,0 +1,11 @@
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.deps.json
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.runtimeconfig.json
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.runtimeconfig.dev.json
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.dll
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\bin\Debug\netcoreapp2.0\TicketTrouble.pdb
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.csprojResolveAssemblyReference.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.csproj.CoreCompileInputs.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.AssemblyInfoInputs.cache
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.AssemblyInfo.cs
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.dll
+C:\C# Advanced\AdvancedExamRetake24April2018\TicketTrouble\obj\Debug\netcoreapp2.0\TicketTrouble.pdb
